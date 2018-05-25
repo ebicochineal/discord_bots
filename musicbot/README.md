@@ -1,9 +1,8 @@
-# discord_musicbot.py
 youtube ニコニコ動画  
-# python3.5
-# discord.py
-<https://github.com/Rapptz/discord.py>  
-# ffmpeg
+# 必要
+ffmpeg.exe  
+ffplay.exe  
+ffprobe.exe  
 # discord bot token
 <https://discordapp.com/developers/applications/me>  
 ```https://discordapp.com/oauth2/authorize?client_id=***Client ID***&scope=bot```
